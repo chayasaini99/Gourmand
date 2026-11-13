@@ -1,0 +1,6 @@
+{
+  "name": "Rasa Kannauj — Indian Heritage Haute Parfumerie",
+  "description": "Artisanal Indian haute parfumerie and Kannauj deg-bhapka attars uniting warm gourmand extraits and royal oud resins.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
